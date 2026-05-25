@@ -1,0 +1,21 @@
+# Web Framework and Server
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.9.0
+streamlit
+python-dotenv
+
+# PDF Extraction
+pypdf>=4.2.0
+
+# Database and Vector Search
+chromadb>=0.5.0
+numpy>=1.26.0
+
+# Advanced Retrieval and AI SDKs
+cross-encoder>=0.1.0
+rank-bm25>=0.2.2
+
+# Orchestration and Stateful Agents
+langgraph>=0.1.0
+logging
